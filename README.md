@@ -1,6 +1,7 @@
 ## Hi there, my name is Christine Suk
 I am a student in SAIT IDD program, majoring in web design and development. I have no experience with my major, but I was always interested in exploring my creative side and technical side so I have been enjoyinh my studies so far. I'm excited to see what I can create in the near future! 
-![Image of Sait logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.servicenow.com%2Fcustomers%2Fsait-riseup.html&psig=AOvVaw3bdXNpiXkAwMbWzGonni_C&ust=1727886184635000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC_4vHL7YgDFQAAAAAdAAAAABAI)
+
+![image of SAIT logo](https://github.com/user-attachments/assets/07f24d3d-8944-4999-bbbd-4b0fef0b9fcc)
 
 ### About me 
 <ul>
