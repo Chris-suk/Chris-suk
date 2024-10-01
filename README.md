@@ -9,3 +9,11 @@ I am a student in SAIT IDD program, majoring in web design and development. I ha
 <li>✈️ I love to travel.</li>
   I love to travel to different places I've never been, learning different cultures and trying new food.
 </ul>
+
+### My skills
+I am currently learning: 
+<ul>
+  <li>HMTL</li>
+  <li>CSS</li>
+  <li>..And more in the near future!</li>
+</ul>
