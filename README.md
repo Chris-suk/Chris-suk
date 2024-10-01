@@ -20,3 +20,5 @@ I am currently learning:
   <li>CSS</li>
   <li>..And more in the near future!</li>
 </ul>
+
+### My future goals related to web design and development
