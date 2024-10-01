@@ -22,5 +22,5 @@ I am currently learning:
 </ul>
 
 ### My future goals related to web design and development
-- [] Make a personal website for my portfolio.
-- [] Create a website for my family's business.
+- [ ] Make a personal website for my portfolio.
+- [ ] Create a website for my family's business.
